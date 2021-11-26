@@ -3,3 +3,6 @@ build
 .lock*
 src/python/termboxconfig.pyx
 src/python/termboxmodule.c
+src/demo/keyboard
+src/demo/output
+src/demo/paint
