@@ -1,3 +1,4 @@
+#define _TERMBOX_IMPL
 #include "../termbox.h"
 #include <stdlib.h>
 #include <stdio.h>

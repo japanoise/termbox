@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#define _TERMBOX_IMPL
 #include "../termbox.h"
 
 static const char chars[] = "nnnnnnnnnbbbbbbbbbuuuuuuuuuBBBBBBBBB";
